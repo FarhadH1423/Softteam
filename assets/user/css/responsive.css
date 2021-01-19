@@ -1,0 +1,113 @@
+ @media (max-width: 1199px){
+
+    .account-box .bank-card {
+        margin-bottom: 30px;
+    }
+    .bank-card .content .left {
+        padding: 35px 20px 35px;
+    }
+    .account-box .bank-card .add-card {
+        height: auto;
+        padding-top: 44px;
+        padding-bottom: 44px;
+    }
+
+  
+  }
+  
+  @media  (max-width: 991px) {
+    .main-menu #main-menu .navbar-nav .nav-item{
+        width: 100%;
+        display: block;
+        padding: 0px 10px;
+    }
+    .main-menu #main-menu .navbar-nav .nav-item .nav-link.notifications{
+        margin: 0px;
+    }
+    .main-menu #main-menu .navbar-nav .nav-item.dropdown .dropdown-menu{
+        border-top: 1px solid rgba(0, 0, 0, 0.10);
+    }
+    .navbar .dropdown.show .dropdown-menu, .navbar .dropdown .dropdown-menu {
+        height: 160px;
+    }
+    #main-menu {
+        box-shadow: 0px 0px 15px rgba(0, 0, 0, 0.10);
+    }
+    .dashbord-content .profile-componet-area .single-componet{
+        margin-bottom: 30px;
+    }
+    .dashbord-content .profile-componet-area .content{
+        padding-bottom: 0px;
+    }
+    .dashbord-content .transaction-info2 {
+        border-top: 2px dashed rgba(0, 0, 0, 0.20);
+        padding-top: 15px;
+        margin-top: 5px;
+    
+    }
+    .footer-widget.footer-newsletter-widget {
+        margin-top: 13px;
+    }
+    .main-menu #main-menu .navbar-nav .nav-item.dropdown .dropdown-menu {
+        display: block;
+        margin-bottom: 0px;
+        padding-bottom: 0px;
+    }
+    .dashbord-content .aside-area {
+        margin-bottom: 30px;
+    }
+  }
+  
+  @media  (max-width: 767px) {
+    .dashbord-content .recent-transaction .content #accordionTransactions .single-accordion  .remove-sm.d-flex{
+        display: none!important;
+    }
+    .single-accordion .remove-sm{
+        display: none!important;
+    }
+    .footer-widget.address-widget{
+        margin-top: 16px;
+    }
+    .profile .profile-image-area .img{
+        margin-right: 0px;
+    }
+
+  }
+  
+  @media  (max-width: 575px) {
+    .profile .profile-image-area{
+        display: flow-root;
+        justify-content: center;
+    }
+
+    .profile{
+        text-align: center;
+    }
+    .navbar .navbar-brand img{
+        max-width: 150px;
+    }
+    .profile .open-tikit-area .open-tikit {
+        position: absolute;
+        right: 50%;
+        transform: translateX(50%);
+        bottom: -70px;
+    }
+    .dashbord-content {
+        padding: 110px 0px 70px;
+    }
+  }
+  
+
+  
+  @media  (max-width: 414px) {
+    .account-box .content table tr td:first-child {
+        width: 140px;
+    }
+    .account-box .content table {
+        border-collapse: collapse;
+        width: 380px;
+    }
+  }
+  @media  (max-width: 390px){
+
+  }

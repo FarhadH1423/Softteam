@@ -1,0 +1,11 @@
+/*-----------------------------
+** Banner Section Start
+------------------------------*/
+.banner-section {
+  padding: 30px 0px 30px; }
+  .banner-section img {
+    width: 100%; }
+  .banner-section .left {
+    margin-right: 14px; }
+  .banner-section .right {
+    margin-left: 15px; }
