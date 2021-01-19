@@ -128,10 +128,10 @@
                 <div class="container copyright">
                     <div class="row">
                         <div class="col-md-6">
-                            <p>&copy; <a href="https://htmlcodex.com">HTML Codex</a>, All Right Reserved.</p>
+                            <p>&copy; <a href="https://htmlcodex.com">Farhad Hossain</a>, All Right Reserved.</p>
                         </div>
                         <div class="col-md-6">
-                            <p>Template By <a href="https://htmlcodex.com">HTML Codex</a></p>
+                            <p>Template By <a href="https://htmlcodex.com">WTSolvers</a></p>
                         </div>
                     </div>
                 </div>
